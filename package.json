@@ -1,0 +1,16 @@
+{
+  "name": "ElectronBugCase",
+  "version": "1.0.2",
+  "description": "None",
+  "main": "app.js",
+  "keywords": [],
+  "author": "Convict.Yellow",
+  "license": "ISC",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "11.3.0"
+  }
+}
